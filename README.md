@@ -1,4 +1,4 @@
-# Competitive-Programing
+# Competitive-Programming
 
 All my solved competitive programming problems through the years, most of them back then in college.
 
